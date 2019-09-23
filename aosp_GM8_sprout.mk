@@ -31,7 +31,7 @@ TARGET_GAPPS_ARCH := arm64
 $(call inherit-product, device/google/GM8_sprout/device.mk)
 
 # Bootanimation
-TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_BOOT_ANIMATION_RES := 720
 
 PRODUCT_BRAND := Google
 PRODUCT_MODEL := GM 8
